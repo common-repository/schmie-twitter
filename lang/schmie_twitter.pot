@@ -1,0 +1,209 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-04-28 11:54+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: schmie_twitter_options.php:94
+msgid "Schmie Twitter Settings"
+msgstr ""
+
+#: schmie_twitter_options.php:95
+msgid "Communication with Twitter"
+msgstr ""
+
+#: schmie_twitter_options.php:101
+msgid "Account Settings for Twitter"
+msgstr ""
+
+#: schmie_twitter_options.php:104
+msgid "Twitter Username"
+msgstr ""
+
+#: schmie_twitter_options.php:105
+msgid "Twitter Password"
+msgstr ""
+
+#: schmie_twitter_options.php:128
+msgid ""
+"I can reach Twitter. Have a look at your Tweetlist and ignore the "
+"Twittermail function"
+msgstr ""
+
+#: schmie_twitter_options.php:130
+msgid ""
+"Unable to reach Twitter. Your Hoster may block it. Use the "
+"Twittermailfunction or\n"
+"contact your Hoster"
+msgstr ""
+
+#: schmie_twitter_options.php:143
+msgid "Account Settings for Twittermail"
+msgstr ""
+
+#: schmie_twitter_options.php:147
+msgid ""
+"If your Hoster blocks Twitter, you can use Twittermail. You can send an "
+"email to your twittermail address and the service post it to twitter. <a "
+"href=\"http://twittercounter.com/pages/twittermail\">Visit Site to set up "
+"your account</a></th>"
+msgstr ""
+
+#: schmie_twitter_options.php:149
+msgid "Twittermail Name"
+msgstr ""
+
+#: schmie_twitter_options.php:153 schmie_twitter_options.php:248
+msgid "Use"
+msgstr ""
+
+#: schmie_twitter_options.php:166
+msgid "Communication with Identica"
+msgstr ""
+
+#: schmie_twitter_options.php:168
+msgid "Identi.ca Username"
+msgstr ""
+
+#: schmie_twitter_options.php:169
+msgid "Identi.ca Password"
+msgstr ""
+
+#: schmie_twitter_options.php:196
+msgid "I can reach Identica. Have a look at your Profile"
+msgstr ""
+
+#: schmie_twitter_options.php:198
+msgid "Unable to reach Identi.ca. Contact your Hoster"
+msgstr ""
+
+#: schmie_twitter_options.php:212
+msgid "Communication with Ping.fm"
+msgstr ""
+
+#: schmie_twitter_options.php:216
+msgid ""
+"Ping.fm is a simple service that can update your status on several social "
+"networks. If you use this, Schmie_twitter pushes a message on this site and "
+"they will forward it to every social network you are connected with. All you "
+"need is the User Api Key. You can get it <a href=\"http://ping.fm/key/"
+"\">here</a>"
+msgstr ""
+
+#: schmie_twitter_options.php:220
+msgid "Desktop / Web Key"
+msgstr ""
+
+#: schmie_twitter_options.php:222
+msgid "API Key"
+msgstr ""
+
+#: schmie_twitter_options.php:228
+msgid "If you got issues with the Connection to Ping.fm visit"
+msgstr ""
+
+#: schmie_twitter_options.php:236
+msgid "Url Shortener"
+msgstr ""
+
+#: schmie_twitter_options.php:240
+msgid "At the Moment are these services supported:"
+msgstr ""
+
+#: schmie_twitter_options.php:259
+msgid "Your Bit.ly Username"
+msgstr ""
+
+#: schmie_twitter_options.php:260
+msgid "Your Bit.ly API Key"
+msgstr ""
+
+#: schmie_twitter_options.php:277
+msgid "I can reach bit.ly.)"
+msgstr ""
+
+#: schmie_twitter_options.php:279
+msgid "Please check your Username and API Key.<p>Error message was:"
+msgstr ""
+
+#: schmie_twitter_options.php:297
+msgid "Message Format"
+msgstr ""
+
+#: schmie_twitter_options.php:301
+msgid ""
+"Hey there are some tags available for formatting your Tweets\n"
+"Example: Hey there's a new Post on %blog: %title. Visit %url"
+msgstr ""
+
+#: schmie_twitter_options.php:304
+msgid "Title of your Post"
+msgstr ""
+
+#: schmie_twitter_options.php:305
+msgid "Name of the Blog"
+msgstr ""
+
+#: schmie_twitter_options.php:306
+msgid "Date of Post"
+msgstr ""
+
+#: schmie_twitter_options.php:307
+msgid "1st Category of Post"
+msgstr ""
+
+#: schmie_twitter_options.php:308
+msgid "Url of the Post"
+msgstr ""
+
+#: schmie_twitter_options.php:317
+msgid "Tweet on new post"
+msgstr ""
+
+#: schmie_twitter_options.php:325
+msgid "Tweet on update post"
+msgstr ""
+
+#: schmie_twitter_options.php:331
+msgid "Use these Services"
+msgstr ""
+
+#: schmie_twitter_options.php:335
+msgid "Publish Messages on Twitter"
+msgstr ""
+
+#: schmie_twitter_options.php:345
+msgid "Publish Messages on Identica"
+msgstr ""
+
+#: schmie_twitter_options.php:350
+msgid "Publish Messages on Ping.fm"
+msgstr ""
+
+#: schmie_twitter_options.php:357
+msgid "Save Changes"
+msgstr ""
+
+#: schmie_twitter.php:52
+msgid "schmie_twitter"
+msgstr ""
+
+#: schmie_twitter.php:57
+msgid "Publish this Message via schmie_twitter instead of the default message"
+msgstr ""
+
+#: schmie_twitter.php:60
+msgid "Available Tags: %title,%blog,%url,%date"
+msgstr ""

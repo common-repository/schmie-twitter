@@ -1,0 +1,206 @@
+# Translation of the WordPress plugin schmie_twitter 1.0.2 by Schmitt Michael.
+# Copyright (C) 2010 Schmitt Michael
+# This file is distributed under the same license as the schmie_twitter package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: schmie_twitter 1.0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-04-28 11:54+0200\n"
+"PO-Revision-Date: 2010-04-28 11:59+0100\n"
+"Last-Translator: Michael Schmitt <schmiddim@gmx.at>\n"
+"Language-Team: de_DE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: schmie_twitter_options.php:94
+msgid "Schmie Twitter Settings"
+msgstr "Schmie Twitter Einstellungen"
+
+#: schmie_twitter_options.php:95
+msgid "Communication with Twitter"
+msgstr "Verbindung zu Twitter"
+
+#: schmie_twitter_options.php:101
+msgid "Account Settings for Twitter"
+msgstr "Twitter Benutzerdaten"
+
+#: schmie_twitter_options.php:104
+msgid "Twitter Username"
+msgstr "Benutzername"
+
+#: schmie_twitter_options.php:105
+msgid "Twitter Password"
+msgstr "Passwort"
+
+#: schmie_twitter_options.php:128
+msgid "I can reach Twitter. Have a look at your Tweetlist and ignore the Twittermail function"
+msgstr "Twitter ist erreichbar. Prüfe Deine Tweetlist und ingnoriere die Twittermail funktion"
+
+#: schmie_twitter_options.php:130
+msgid ""
+"Unable to reach Twitter. Your Hoster may block it. Use the Twittermailfunction or\n"
+"contact your Hoster"
+msgstr "Ich kann Twitter nicht erreichen. Der Dienst wird wahrscheinlich von Deinem Hoster blockiert. Benutze die Twittermail Funktion oder kontaktiere Deinen Hoster. "
+
+#: schmie_twitter_options.php:143
+msgid "Account Settings for Twittermail"
+msgstr "Benutzerdaten für Twittermail"
+
+#: schmie_twitter_options.php:147
+msgid "If your Hoster blocks Twitter, you can use Twittermail. You can send an email to your twittermail address and the service post it to twitter. <a href=\"http://twittercounter.com/pages/twittermail\">Visit Site to set up your account</a></th>"
+msgstr "Wenn Dein Hoster Twitter blockiert, kannst Du Twittermail nutzen. Das Prinzip ist einfach. Du sendest eine Email an Deine geheime Twittermail Adresse und der Dienst sendet die Nachricht zu Twitter. <a href=\"http://twittercounter.com/pages/twittermail\">Besuch die Seite um dich anzumelden</a></th>"
+
+#: schmie_twitter_options.php:149
+msgid "Twittermail Name"
+msgstr "Twittermail Adresse"
+
+#: schmie_twitter_options.php:153
+#: schmie_twitter_options.php:248
+msgid "Use"
+msgstr "Verwende:"
+
+#: schmie_twitter_options.php:166
+msgid "Communication with Identica"
+msgstr "Verbindung zu Identica"
+
+#: schmie_twitter_options.php:168
+msgid "Identi.ca Username"
+msgstr "Identi.ca Benutzername"
+
+#: schmie_twitter_options.php:169
+msgid "Identi.ca Password"
+msgstr "Identi.ca Benutzername"
+
+#: schmie_twitter_options.php:196
+msgid "I can reach Identica. Have a look at your Profile"
+msgstr "Verbindung zu Identica erfolgreich. Besuche Deine Profilseite"
+
+#: schmie_twitter_options.php:198
+msgid "Unable to reach Identi.ca. Contact your Hoster"
+msgstr "Es kann keine Verbindung zu Identi.ca hergestellt werden. Bitte wenden Sie sich an Ihren Hoster"
+
+#: schmie_twitter_options.php:212
+msgid "Communication with Ping.fm"
+msgstr "Verbindung zu Ping.fm"
+
+#: schmie_twitter_options.php:216
+msgid "Ping.fm is a simple service that can update your status on several social networks. If you use this, Schmie_twitter pushes a message on this site and they will forward it to every social network you are connected with. All you need is the User Api Key. You can get it <a href=\"http://ping.fm/key/\">here</a>"
+msgstr "Ping.fm ist ein Dienst, mit dem man seinen Status in vielen Social Networks auf einmal aktualisieren kann. Wenn du diese Funktion benutzt, sendet Schmie_twitter eine Nachricht an diese Seite. Von dort wird sie zu jeder dort angegebenen Plattform weitergeleitet, Alles was Du brauchst ist ein API Key, den du <a href=\"http://ping.fm/key/\">hier</a> bekommst."
+
+#: schmie_twitter_options.php:220
+msgid "Desktop / Web Key"
+msgstr "Desktop / Web Key"
+
+#: schmie_twitter_options.php:222
+msgid "API Key"
+msgstr "Ping.fm API Key"
+
+#: schmie_twitter_options.php:228
+msgid "If you got issues with the Connection to Ping.fm visit"
+msgstr "Wenn Sie Schwierigkeiten mit der Verbindungen zu Ping.fm haben, besuchen Sie meine Seite"
+
+#: schmie_twitter_options.php:236
+msgid "Url Shortener"
+msgstr "Dienst zum Verkürzen der Url"
+
+#: schmie_twitter_options.php:240
+msgid "At the Moment are these services supported:"
+msgstr "Momentan werden folgende Dienste unterstützt"
+
+#: schmie_twitter_options.php:259
+msgid "Your Bit.ly Username"
+msgstr "Dein Bit.ly Benutzername"
+
+#: schmie_twitter_options.php:260
+msgid "Your Bit.ly API Key"
+msgstr "Dein Apikey"
+
+#: schmie_twitter_options.php:277
+msgid "I can reach bit.ly.)"
+msgstr "Ich kann Bit.ly nutzen"
+
+#: schmie_twitter_options.php:279
+msgid "Please check your Username and API Key.<p>Error message was:"
+msgstr "Bitte überprüfe Deinen Apikey und den Benutzernamen. Fehlermeldung:"
+
+#: schmie_twitter_options.php:297
+msgid "Message Format"
+msgstr "Format der Nachricht"
+
+#: schmie_twitter_options.php:301
+msgid ""
+"Hey there are some tags available for formatting your Tweets\n"
+"Example: Hey there's a new Post on %blog: %title. Visit %url"
+msgstr "Du kannst einige Tags nutzen um Deine Tweets anzupassen. Ein Beispiel:Hey there's a new Post on %blog: %title. Visit %url"
+
+#: schmie_twitter_options.php:304
+msgid "Title of your Post"
+msgstr "Titel Deines Posts"
+
+#: schmie_twitter_options.php:305
+msgid "Name of the Blog"
+msgstr "Blogname"
+
+#: schmie_twitter_options.php:306
+msgid "Date of Post"
+msgstr "Datum"
+
+#: schmie_twitter_options.php:307
+msgid "1st Category of Post"
+msgstr "1. Kategorie des Post"
+
+#: schmie_twitter_options.php:308
+msgid "Url of the Post"
+msgstr "Adresse des Posts"
+
+#: schmie_twitter_options.php:317
+msgid "Tweet on new post"
+msgstr "Twittern bei einem neuen Post"
+
+#: schmie_twitter_options.php:325
+msgid "Tweet on update post"
+msgstr "Twittern, wenn ein Post aktualisiert wird"
+
+#: schmie_twitter_options.php:331
+msgid "Use these Services"
+msgstr "Benutze folgende Dienste"
+
+#: schmie_twitter_options.php:335
+msgid "Publish Messages on Twitter"
+msgstr "Veröffentlich Nachricht auf Twitter"
+
+#: schmie_twitter_options.php:345
+msgid "Publish Messages on Identica"
+msgstr "Veröffentlich Nachricht auf Identica"
+
+#: schmie_twitter_options.php:350
+msgid "Publish Messages on Ping.fm"
+msgstr "Veröffentliche Nachricht auf Ping.fm"
+
+#: schmie_twitter_options.php:357
+msgid "Save Changes"
+msgstr "Einstellungen übernehmen"
+
+#: schmie_twitter.php:52
+msgid "schmie_twitter"
+msgstr "schmie_twitter"
+
+#: schmie_twitter.php:57
+msgid "Publish this Message via schmie_twitter instead of the default message"
+msgstr "Veröffentliche diese Nachricht  statt der standard Nachricht"
+
+#: schmie_twitter.php:60
+msgid "Available Tags: %title,%blog,%url,%date"
+msgstr "Verfügbare Tags: %title,%blog,%url,%date"
+
+#~ msgid "Ping.fm USER API Key"
+#~ msgstr "Ping.fm USER API Key"
+#~ msgid "Format of your Twitter Messages"
+#~ msgstr "Format Deiner Twitternachrichten"
+#~ msgid "Twitter via the normal Service or Twittermail"
+#~ msgstr "Twittern mit Twittermail oder direkt mit Twitter"
+
